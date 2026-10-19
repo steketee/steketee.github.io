@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <text x="640" y="280" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="120" font-weight="700" fill="#58a6ff" text-anchor="middle" filter="url(#shadow)">η ETA</text>
+  <text x="640" y="380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" fill="#8b949e" text-anchor="middle">Embedded JS Template Engine</text>
+  <text x="640" y="440" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#3fb950" text-anchor="middle">Lightweight • Fast • TypeScript</text>
+</svg>
